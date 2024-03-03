@@ -31,3 +31,5 @@ PSPDev hosts the various repositories for your PSP development managed by the [P
 - **PSPDEV Research**
 	- [vfpu-docs](https://github.com/pspdev/vfpu-docs)
 	- [psp-ghidra-scripts](https://github.com/pspdev/psp-ghidra-scripts)
+
+ **If you have any ideas, suggestions or questions, please don't hesitate to use our [GitHub discussions](https://github.com/pspdev/pspdev/discussions)!**
